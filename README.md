@@ -6,4 +6,4 @@ In step 1 I did cleaned the data.
 
 In step 2 I did EDA(exploratory data analysis).
 
-In step 3 I introduced prediction.
+In step 3 I predict my prediction.
